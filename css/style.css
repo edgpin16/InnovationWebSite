@@ -474,7 +474,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #about {
   background: #fff;
-  padding: 80px 0;
+  padding: 60px 0 40px 0;
 }
 
 #about .about-container {
@@ -504,7 +504,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services {
   background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("../img/services-bg.jpg") fixed center center;
   background-size: cover;
-  padding: 80px 0 60px 0;
+  padding: 40px 0 30px 0;
 }
 
 #services .service-item {
@@ -720,7 +720,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #team {
   background: #fff;
-  padding: 80px 0 60px 0;
+  padding: 0px 0 30px 0;
 }
 
 #team .member {
@@ -770,7 +770,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #contact {
   background: #f7f7f7;
-  padding: 80px 0;
+  padding: 40px 0;
 }
 
 #contact .info {

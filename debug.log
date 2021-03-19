@@ -1,2 +1,3 @@
 [0318/193659.361:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
 [0318/220925.515:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0319/121637.472:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
